@@ -14,6 +14,7 @@
 
 ***Cuman Work di akun Facebook baru kalau akun lama kaga work***
 
-<p align="center">
-  
-Screenshot_20211105-123955_Termux.jpg
+### ⇨ Screenshot
+
+
+ 
