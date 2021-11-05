@@ -12,9 +12,9 @@
 ➠python2 Bangsat.py
 ```
 
-***Peringatan !!!***
+# PERINGATAN !!!
 
-***Cuman Work di akun Facebook baru kalau akun lama kaga work***
+***Cuma Work di akun Facebook BARU kalau akun LAMA engga work***
 
 # SCREENSHOT
 
